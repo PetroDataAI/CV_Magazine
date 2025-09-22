@@ -1,20 +1,23 @@
 Topier magazine newest ranking, focus on Petroleum
 
-## 1区
-- Petroleum Science (JCR Q1)
+## SCI-1:
+- Petroleum Science (JCR Q1) **TOP**
 - Petroleum Exploration and Development (JCR Q1)
 
 ---
 
-## 3区
+## SCI-2:
+- JOURNAL OF PETROLEUM SCIENCE AND ENGINEERING
+
+---
+
+## SCI-3:
 - SPE Journal (JCR Q1)
 
 ---
 
-## 4区
-- SPE Drilling & Completion (JCR Q3)
+## SCI-4:
 - Petroleum Chemistry (JCR Q3)
 - Petroleum Science and Technology (JCR Q3)
-- Chemistry and Technology of Fuels and Oils (JCR Q4)
 - International Journal of Oil Gas and Coal Technology (JCR Q4)
 
