@@ -58,6 +58,7 @@ Refer to [CCF](https://www.ccf.org.cn/Academic_Evaluation/AI/) and [Research.com
 - [CCF-B] SIAM Journal on Imaging Sciences 
 - [CCF-C] PRL: Pattern Recognition Letters 
 - [CCF-C] IVC: Image and Vision Computing 
+- [CCF-C] Visual Computer
 - [CCF-C] Journal of Visual Communication and Image Representation 
 - [CCF-C] Applied Intelligence 
 - [CCF-C] IJIS: International Journal of Intelligent Systems 
@@ -100,4 +101,3 @@ Refer to [CCF](https://www.ccf.org.cn/Academic_Evaluation/AI/) and [Research.com
 ## No SCI:
 - [CCF-C] NCA: Neural Computing & Applications 
 - [CCF-C] Multimedia Tools and Applications 
-- [CCF-C] The Visual Computer
