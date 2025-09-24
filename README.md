@@ -9,6 +9,7 @@ Refer to [CCF](https://www.ccf.org.cn/Academic_Evaluation/AI/) and [Research.com
 - Nature Machine Intelligence
 - [CCF-A] TPAMI: IEEE Transactions on Pattern Analysis and Machine Intelligence 
 - [CCF-A] TIP: IEEE Transactions on Image Processing
+- [CCF-A] ACM Transactions on Graphics
 - [CCF-B] PR: Pattern Recognition
 - [CCF-B] TCSVT: IEEE Transactions on Circuits and Systems for Video Technology 
 - [CCF-B] TMM: IEEE Transactions on Multimedia
@@ -25,10 +26,13 @@ Refer to [CCF](https://www.ccf.org.cn/Academic_Evaluation/AI/) and [Research.com
 - [CCF-C] TIV: IEEE Transactions on Intelligent Vehicles (**SCIE on hold**)
 - [CCF-C] IJNS: International Journal of Neural Systems
 - Artificial Intelligence Review
+- IEEE Communications Surveys and Tutorials
+- ACM Computing Surveys
 
 ---
 
 ## SCI-2 TOP:
+- [CCF-A] TVCG: IEEE Transactions on Visualization and Computer Graphics
 - [CCF-B] Neural Networks
 - [CCF-B] TITS: IEEE Transactions on Intelligent Transportation Systems
 - [CCF-C] Applied Soft Computing
@@ -64,6 +68,8 @@ Refer to [CCF](https://www.ccf.org.cn/Academic_Evaluation/AI/) and [Research.com
 - [CCF-C] IJIS: International Journal of Intelligent Systems 
 - [CCF-C] IEEE Geoscience and Remote Sensing Letters 
 - [CCF-C] Signal Processing: Image Communication
+- [CCF-C] IEEE Signal Processing Letters
+- [CCF-C] COMPUTERS & GRAPHICS-UK
 - ACM Transactions on Intelligent Systems and Technology
 - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 - ACM Transactions on Multimedia Computing Communications and Applications
@@ -74,6 +80,7 @@ Refer to [CCF](https://www.ccf.org.cn/Academic_Evaluation/AI/) and [Research.com
 ## SCI-4:
 - [CCF-B] Machine Learning 
 - [CCF-B] Neural Computation 
+- [CCF-B] Computer Graphics Forum
 - [CCF-C] IET Computer Vision 
 - [CCF-C] IET Image Processing
 - [CCF-C] PAA: Pattern Analysis and Applications 
